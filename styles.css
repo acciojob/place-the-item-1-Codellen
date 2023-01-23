@@ -5,7 +5,7 @@
 	display:flex;
 	flex-flow:row wrap;
 	gap:10px;
-	justify-content:start;
+	justify-content:space-between;
 }
 .item{
 	padding:50px;
